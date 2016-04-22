@@ -1,5 +1,6 @@
 # Time_OL_Client
 wifi室内定位，实验室打卡客户端
+服务端程序地址：https://github.com/DvHuang/Time_OL_Server
 
 
 ![image](https://github.com/DvHuang/Time_OL_Client/blob/master/login.jpg)
